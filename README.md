@@ -1,6 +1,3 @@
-Certainly, here's the full README.md file for your Sympy code to analyze improper integrals. You can copy and paste this into your GitHub repository:
-
-```markdown
 # Improper Integral Analysis with Sympy
 
 This Python script uses the Sympy library to analyze improper integrals. It can help you determine whether an improper integral is convergent or divergent by computing the limit of the integral as a variable approaches a certain value. This README will guide you through using the script and understanding its results.
@@ -69,6 +66,3 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-You can customize this README to match your specific project details and preferences.
