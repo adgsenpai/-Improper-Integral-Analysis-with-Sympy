@@ -59,6 +59,11 @@ The script will generate LaTeX output that explains whether the improper integra
 
 Based on the limit's finiteness, it will indicate whether the integral is convergent or divergent.
 
+## STD OUT 
+
+![image](https://github.com/adgsenpai/-Improper-Integral-Analysis-with-Sympy/assets/45560312/1c21cad5-d7a7-4cb8-ac83-c286efae8a38)
+
+
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository, make improvements, and create a pull request. Your contributions are welcome!
